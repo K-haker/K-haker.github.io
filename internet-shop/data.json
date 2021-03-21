@@ -1,0 +1,151 @@
+[
+   {
+      "id":0,
+      "type":"sports equipment",
+      "name":"Гриф гантельный Torneo стальной с обрезиненной рукоятью, 30 x 360 мм",
+      "price":"999",
+      "diameter":"30 мм",
+      "length":"360мм",
+      "material":"сталь",
+      "weight":"2,3кг",
+      "maximumLoad":"100кг",
+      "src":"img/catalog/gantels/grif1.jpg"
+   },
+
+   {
+      "id":1,
+      "type":"clother",
+      "underType":"man",
+      "name":"Куртка для мальчика",
+      "price":"2999",
+      "material":"steel",
+      "color":"blue",
+      "src":"img/catalog/clother/boy_clother_1.jpg"
+   },
+
+   {
+      "id":2,
+      "type":"clother",
+      "underType":"man",
+      "name":"Куртка для мальчика",
+      "price":"1999",
+      "material":"",
+      "color":"red",
+      "src":"img/catalog/clother/boy_clother_2.jpg"
+   },
+
+   {
+      "id":3,
+      "type":"clother",
+      "underType":"girl",
+      "name":"Куртка для девочки",
+      "price":"3599",
+      "material":"",
+      "color":"red",
+      "src":"img/catalog/clother/girl_clother_2.jpg"
+   },
+
+   {
+      "id":4,
+      "type":"sports equipment",
+      "name":"Гриф для штанги Torneo стальной рукоятью, 30 x 1000 мм",
+      "price":"1999",
+      "diameter":"30 мм",
+      "length":"1000мм",
+      "material":"сталь",
+      "weight":"8.0кг",
+      "maximumLoad":"100кг",
+      "src":"img/catalog/gantels/grif2.jpg"
+   },
+
+   {
+      "id":5,
+      "type":"clother",
+      "underType":"man",
+      "name":"Куртка мужская",
+      "price":"4999",
+      "material":"",
+      "color":"черный",
+      "src":"img/catalog/clother/man_clother_1.jpg"
+   },
+
+   {
+      "id":6,
+      "type":"sports equipment",
+      "name":"Блин для гантели 10кг",
+      "price":"1999",
+      "diameter":"30 мм",
+      "material":"обрезиненая сталь",
+      "src":"img/catalog/disk/disk2.jpg"
+   },
+
+   {
+      "id":7,
+      "type":"clother",
+      "underType":"girl",
+      "name":"Куртка для девочки",
+      "price":"2999",
+      "material":"",
+      "color":"красный",
+      "src":"img/catalog/clother/girl_clother_1.jpg"
+   },
+
+   {
+      "id":8,
+      "type":"clother",
+      "underType":"woman",
+      "name":"Куртка женская",
+      "price":"4599",
+      "material":"",
+      "color":"красный",
+      "src":"img/catalog/clother/woman_clother_2.jpg"
+   },
+
+   {
+      "id":9,
+      "type":"clother",
+      "underType":"man",
+      "name":"Куртка мужская",
+      "price":"5999",
+      "material":"",
+      "color":"красный",
+      "src":"img/catalog/clother/man_clother_2.jpg"
+   },
+
+   {
+      "id":10,
+      "type":"sports equipment",
+      "name":"Блин для гантели 5кг",
+      "price":"799",
+      "diameter":"30 мм",
+      "material":"обрезиненая сталь",
+      "src":"img/catalog/disk/disk1.png"
+   }
+
+
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
